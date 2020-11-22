@@ -35,10 +35,12 @@
 
 .modal-footer .btnOK {
     background-color: #5cb85c;
+    cursor: pointer;
 }
 
 .modal-footer .btnCancel {
     background-color: red;
+    cursor: pointer;
 }
 
 .modal-footer  button {
